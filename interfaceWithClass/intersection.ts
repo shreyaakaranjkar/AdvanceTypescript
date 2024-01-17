@@ -14,7 +14,7 @@ type elevatedEmp = empData & admin //intersection - &
 let employee : elevatedEmp ={
     name : 'Anuja Bhosale',
     startDate : new Date(2024,3,20),
-    priviledges : ['Cab Facility','Food','WFH','Apple']
+    priviledges : ['Cab Facility','Food','WFH','Apple Laptop']
 }
 
 cl(employee)
