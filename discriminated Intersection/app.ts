@@ -88,3 +88,4 @@ function move(vehicle : VehicleCheck){
 }
 
 move(v2)
+// //
